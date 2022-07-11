@@ -149,16 +149,16 @@ int main() //i,j,k,l,m,t,o,p,q
             }
         }
         else {
-            cout << "You entered less or more than 16 symbols! Enter exactly 16 symbols, please!" << endl;
+            cout << "Вы ввели не 16 символов, попробуйте ввести что-нибудь снова!" << endl;
         }
     }
     if (param==0) {
         cout << "=======================================================" << endl;
-        cout << "Psychological assistance in the implementation of term papers: d3n37" << endl;
+        cout << "Психологическая помощь в выполнении курсовой: vk.com/d3n37" << endl;
         cout << "=======================================================" << endl;
-        cout << "Здесь могла бы быть Ваша реклама! Обращаться: d3n37" << endl;
+        cout << "Здесь могла бы быть Ваша реклама! Обращаться: vk.com/d3n37" << endl;
         cout << "=======================================================" << endl;
-        cout << "Здесь могла бы быть Ваша реклама! Обращаться: d3n37" << endl;
+        cout << "Здесь могла бы быть Ваша реклама! Обращаться: vk.com/d3n37" << endl;
         cout << "=======================================================" << endl;
         int height=15;
         for (int i = 0; i < height; i++)
@@ -184,7 +184,7 @@ int main() //i,j,k,l,m,t,o,p,q
         main();
     }
     else {
-        cout << "There is no matrix of this size in our project! Enter 3 or 4 the size of matrix" << endl;
+        cout << "Такого размера матрицы нет в курсовой! Попробуй нажать 3 или 4..." << endl;
         main();
     }
 }
