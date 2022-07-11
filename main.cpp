@@ -156,9 +156,9 @@ int main() //i,j,k,l,m,t,o,p,q
         cout << "=======================================================" << endl;
         cout << "Psychological assistance in the implementation of term papers: d3n37" << endl;
         cout << "=======================================================" << endl;
-        cout << "Здесь могла бы быть Ваша реклама! Обращаться: d3n37" << endl;
+        cout << "Your ad could be here: d3n37" << endl;
         cout << "=======================================================" << endl;
-        cout << "Здесь могла бы быть Ваша реклама! Обращаться: d3n37" << endl;
+        cout << "Your ad could be here: d3n37" << endl;
         cout << "=======================================================" << endl;
         int height=15;
         for (int i = 0; i < height; i++)
